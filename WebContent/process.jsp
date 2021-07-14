@@ -18,6 +18,6 @@ if(status>0){
 }
 %>
 
-
+<a href="login.jsp">Click to Login</a>
 </body>
 </html>
